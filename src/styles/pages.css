@@ -1,0 +1,29 @@
+/********************* page 1 styles ***************************** */
+
+
+
+
+/********************* page 2 styles ***************************** */
+.switch-ctn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.switch {
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+.plan-ctn-selected {
+    border: 2px solid red;
+}
+
+
+/********************* page 3 styles ***************************** */
+
+
+
+
+
+/********************* page 4 styles ***************************** */
