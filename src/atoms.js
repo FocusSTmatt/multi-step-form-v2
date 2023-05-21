@@ -11,5 +11,14 @@ export const getCart = atom({
         serviceName: "",
         serviceTerms: "",
         servicePrice: "",
+        OnlineServiceName: "",
+        OnlineServiceTerms: "",
+        OnlineServicePrice: "",
+        LargerStorageName: "",
+        LargerStorageTerms: "",
+        LargerStoragePrice: "",
+        CustomizeableProfileName: "",
+        CustomizeableProfileTerms: "",
+        CustomizeableProfilePrice: "",
     }
 })

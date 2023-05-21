@@ -9,6 +9,7 @@ const Page4 = () => {
       <h1>{cartItems.serviceName}</h1>
       <h1>{cartItems.serviceTerms}</h1>
       <h1>{cartItems.servicePrice}</h1>
+      <h1>{cartItems.OnlineServiceName}</h1>
     </div>
   )
 }

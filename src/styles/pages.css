@@ -21,8 +21,12 @@
 
 
 /********************* page 3 styles ***************************** */
-
-
+.addonActive {
+ display: none;
+}
+.addonInactive {
+ display: block;
+}
 
 
 
